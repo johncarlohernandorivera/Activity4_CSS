@@ -1,0 +1,10 @@
+.button{
+    font-style:italic;
+    font-family: sans-serif;
+    background-color:aqua;
+    border:outset;
+
+}
+.button:hover {
+    border:inset;
+}
